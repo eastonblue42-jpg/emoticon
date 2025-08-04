@@ -10,7 +10,7 @@ A beautiful, responsive website dedicated to Japanese-style kaomojis and ASCII a
 - **Interactive Elements**: Clickable emoticons with copy-to-clipboard functionality
 - **Blog-Style Homepage**: Full article about kaomojis displayed directly on the homepage
 - **Modern CSS**: Smooth animations, hover effects, and micro-interactions
-- **SEO Optimized**: Proper meta tags and semantic HTML structure
+- **SEO Optimized**: Proper meta tags and semantic HTML structure 
 
 ## File Structure
 
